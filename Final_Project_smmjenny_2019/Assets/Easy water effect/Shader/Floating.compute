@@ -1,0 +1,80 @@
+﻿// Each #kernel tells which function to compile; you can have many kernels
+#pragma kernel CSMain
+
+// Create a RenderTexture with enableRandomWrite flag and set it
+// with cs.SetTexture
+RWStructuredBuffer<float3> ActPoint;
+
+RWStructuredBuffer<float3> Wvert;
+
+RWStructuredBuffer<float3> Force;
+
+
+RWStructuredBuffer<float> triangleSurface;
+
+float totalSurface;
+
+float localSx;
+float localSy;
+float localSz;
+
+float floatheight;
+
+int n_waterVertices;
+float density;
+
+[numthreads(1, 1, 1)]
+void CSMain(uint3 id : SV_DispatchThreadID)
+{
+	
+	
+	//we seek the point on the water closest to the actionPoint considering only X and Z (then Y projection is used as waterlevel)
+	float distMin = 1e30f;
+	int indxMin = 0;
+
+	float3 v1 = float3(ActPoint[id.x].x, 0, ActPoint[id.x].z);
+
+	for (int j = 0; j <n_waterVertices; j++)
+	{
+		float3 v2 = float3(Wvert[j].x* localSx, 0, Wvert[j].z * localSz);
+
+		float sqrDistance = (v1.x - v2.x)*(v1.x - v2.x)+ (v1.z - v2.z)*(v1.z - v2.z);
+		if (sqrDistance < distMin)
+		{
+			distMin = sqrDistance;
+			indxMin = j;
+
+		}
+
+	}
+
+	//the waterlevel is the one of the closest water point in the y projection
+	float waterlevel = Wvert[indxMin].y * localSy;
+	
+	float forceFactor = ((-ActPoint[id.x].y + waterlevel) / floatheight);
+
+	float fx = 0;
+	float fy = 0;
+	float fz = 0;
+
+	if (forceFactor > 0)
+	{
+		fx = 0;// -rb_velocity_x*bounceDamp*density;
+		fz = 0;// -rb_velocity_z*bounceDamp*density;
+		fy = (forceFactor*triangleSurface[id.x] / totalSurface)*density;// -rb_velocity_y*bounceDamp
+		
+	}
+	else
+	{
+		fx = 0;
+		fz = 0;
+		fy = 0;
+	}
+
+
+	Force[id.x].x = fx;
+	Force[id.x].y = fy;
+	Force[id.x].z = fz;
+
+
+}
