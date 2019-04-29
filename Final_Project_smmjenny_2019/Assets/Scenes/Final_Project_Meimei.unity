@@ -1219,17 +1219,17 @@ MonoBehaviour:
   durationOnNearTouch: 0
   intervalOnNearTouch: 0.05
   cancelOnNearUntouch: 1
-  clipOnTouch: {fileID: 0}
+  clipOnTouch: {fileID: 8300000, guid: 37e2471dc434449138d39389c381cf1d, type: 3}
   strengthOnTouch: 0
   durationOnTouch: 0
   intervalOnTouch: 0.05
   cancelOnUntouch: 1
-  clipOnGrab: {fileID: 0}
+  clipOnGrab: {fileID: 8300000, guid: 37e2471dc434449138d39389c381cf1d, type: 3}
   strengthOnGrab: 0
   durationOnGrab: 0
   intervalOnGrab: 0.05
   cancelOnUngrab: 1
-  clipOnUse: {fileID: 0}
+  clipOnUse: {fileID: 8300000, guid: 37e2471dc434449138d39389c381cf1d, type: 3}
   strengthOnUse: 0
   durationOnUse: 0
   intervalOnUse: 0.05
@@ -2022,7 +2022,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dc2315305343a584e8758755b54117c5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  clipOnNearTouch: {fileID: 0}
+  clipOnNearTouch: {fileID: 8300000, guid: 903843cffd8694bd08711eff8420aac8, type: 3}
   strengthOnNearTouch: 0
   durationOnNearTouch: 0
   intervalOnNearTouch: 0.05
@@ -2032,12 +2032,12 @@ MonoBehaviour:
   durationOnTouch: 0
   intervalOnTouch: 0.05
   cancelOnUntouch: 1
-  clipOnGrab: {fileID: 0}
+  clipOnGrab: {fileID: 8300000, guid: 903843cffd8694bd08711eff8420aac8, type: 3}
   strengthOnGrab: 0
   durationOnGrab: 0
   intervalOnGrab: 0.05
   cancelOnUngrab: 1
-  clipOnUse: {fileID: 0}
+  clipOnUse: {fileID: 8300000, guid: 903843cffd8694bd08711eff8420aac8, type: 3}
   strengthOnUse: 0
   durationOnUse: 0
   intervalOnUse: 0.05
@@ -3567,17 +3567,17 @@ MonoBehaviour:
   durationOnNearTouch: 0
   intervalOnNearTouch: 0.05
   cancelOnNearUntouch: 1
-  clipOnTouch: {fileID: 0}
+  clipOnTouch: {fileID: 8300000, guid: a418d3653bd8b480a9dd882d2663900a, type: 3}
   strengthOnTouch: 0
   durationOnTouch: 0
   intervalOnTouch: 0.05
   cancelOnUntouch: 1
-  clipOnGrab: {fileID: 0}
+  clipOnGrab: {fileID: 8300000, guid: a418d3653bd8b480a9dd882d2663900a, type: 3}
   strengthOnGrab: 0
   durationOnGrab: 0
   intervalOnGrab: 0.05
   cancelOnUngrab: 1
-  clipOnUse: {fileID: 0}
+  clipOnUse: {fileID: 8300000, guid: a418d3653bd8b480a9dd882d2663900a, type: 3}
   strengthOnUse: 0
   durationOnUse: 0
   intervalOnUse: 0.05
@@ -4153,17 +4153,17 @@ MonoBehaviour:
   durationOnNearTouch: 0
   intervalOnNearTouch: 0.05
   cancelOnNearUntouch: 1
-  clipOnTouch: {fileID: 0}
+  clipOnTouch: {fileID: 8300000, guid: 41e793429a9aa4dd5b1977280b8ddfcb, type: 3}
   strengthOnTouch: 0
   durationOnTouch: 0
   intervalOnTouch: 0.05
   cancelOnUntouch: 1
-  clipOnGrab: {fileID: 0}
+  clipOnGrab: {fileID: 8300000, guid: 41e793429a9aa4dd5b1977280b8ddfcb, type: 3}
   strengthOnGrab: 0
   durationOnGrab: 0
   intervalOnGrab: 0.05
   cancelOnUngrab: 1
-  clipOnUse: {fileID: 0}
+  clipOnUse: {fileID: 8300000, guid: 41e793429a9aa4dd5b1977280b8ddfcb, type: 3}
   strengthOnUse: 0
   durationOnUse: 0
   intervalOnUse: 0.05
@@ -4650,17 +4650,17 @@ MonoBehaviour:
   durationOnNearTouch: 0
   intervalOnNearTouch: 0.05
   cancelOnNearUntouch: 1
-  clipOnTouch: {fileID: 0}
+  clipOnTouch: {fileID: 8300000, guid: 6c0f30de29fb34818b0466c0b9ac0bab, type: 3}
   strengthOnTouch: 0
   durationOnTouch: 0
   intervalOnTouch: 0.05
   cancelOnUntouch: 1
-  clipOnGrab: {fileID: 0}
+  clipOnGrab: {fileID: 8300000, guid: 6c0f30de29fb34818b0466c0b9ac0bab, type: 3}
   strengthOnGrab: 0
   durationOnGrab: 0
   intervalOnGrab: 0.05
   cancelOnUngrab: 1
-  clipOnUse: {fileID: 0}
+  clipOnUse: {fileID: 8300000, guid: 6c0f30de29fb34818b0466c0b9ac0bab, type: 3}
   strengthOnUse: 0
   durationOnUse: 0
   intervalOnUse: 0.05
@@ -4967,17 +4967,17 @@ MonoBehaviour:
   durationOnNearTouch: 0
   intervalOnNearTouch: 0.05
   cancelOnNearUntouch: 1
-  clipOnTouch: {fileID: 0}
+  clipOnTouch: {fileID: 8300000, guid: 996fc88ff306446fa8b0cce891b527de, type: 3}
   strengthOnTouch: 0
   durationOnTouch: 0
   intervalOnTouch: 0.05
   cancelOnUntouch: 1
-  clipOnGrab: {fileID: 0}
+  clipOnGrab: {fileID: 8300000, guid: 996fc88ff306446fa8b0cce891b527de, type: 3}
   strengthOnGrab: 0
   durationOnGrab: 0
   intervalOnGrab: 0.05
   cancelOnUngrab: 1
-  clipOnUse: {fileID: 0}
+  clipOnUse: {fileID: 8300000, guid: 996fc88ff306446fa8b0cce891b527de, type: 3}
   strengthOnUse: 0
   durationOnUse: 0
   intervalOnUse: 0.05
@@ -5198,17 +5198,17 @@ MonoBehaviour:
   durationOnNearTouch: 0
   intervalOnNearTouch: 0.05
   cancelOnNearUntouch: 1
-  clipOnTouch: {fileID: 0}
+  clipOnTouch: {fileID: 8300000, guid: c0de4e8b8be014dfa945817db3f554f5, type: 3}
   strengthOnTouch: 0
   durationOnTouch: 0
   intervalOnTouch: 0.05
   cancelOnUntouch: 1
-  clipOnGrab: {fileID: 0}
+  clipOnGrab: {fileID: 8300000, guid: c0de4e8b8be014dfa945817db3f554f5, type: 3}
   strengthOnGrab: 0
   durationOnGrab: 0
   intervalOnGrab: 0.05
   cancelOnUngrab: 1
-  clipOnUse: {fileID: 0}
+  clipOnUse: {fileID: 8300000, guid: c0de4e8b8be014dfa945817db3f554f5, type: 3}
   strengthOnUse: 0
   durationOnUse: 0
   intervalOnUse: 0.05
@@ -7320,17 +7320,17 @@ MonoBehaviour:
   durationOnNearTouch: 0
   intervalOnNearTouch: 0.05
   cancelOnNearUntouch: 1
-  clipOnTouch: {fileID: 0}
+  clipOnTouch: {fileID: 8300000, guid: ef8d5852b07724d14933af9b4564f5eb, type: 3}
   strengthOnTouch: 0
   durationOnTouch: 0
   intervalOnTouch: 0.05
   cancelOnUntouch: 1
-  clipOnGrab: {fileID: 0}
+  clipOnGrab: {fileID: 8300000, guid: ef8d5852b07724d14933af9b4564f5eb, type: 3}
   strengthOnGrab: 0
   durationOnGrab: 0
   intervalOnGrab: 0.05
   cancelOnUngrab: 1
-  clipOnUse: {fileID: 0}
+  clipOnUse: {fileID: 8300000, guid: ef8d5852b07724d14933af9b4564f5eb, type: 3}
   strengthOnUse: 0
   durationOnUse: 0
   intervalOnUse: 0.05
@@ -7960,17 +7960,17 @@ MonoBehaviour:
   durationOnNearTouch: 0
   intervalOnNearTouch: 0.05
   cancelOnNearUntouch: 1
-  clipOnTouch: {fileID: 0}
+  clipOnTouch: {fileID: 8300000, guid: 114ba615385714102afcb127d5988db2, type: 3}
   strengthOnTouch: 0
   durationOnTouch: 0
   intervalOnTouch: 0.05
   cancelOnUntouch: 1
-  clipOnGrab: {fileID: 0}
+  clipOnGrab: {fileID: 8300000, guid: 114ba615385714102afcb127d5988db2, type: 3}
   strengthOnGrab: 0
   durationOnGrab: 0
   intervalOnGrab: 0.05
   cancelOnUngrab: 1
-  clipOnUse: {fileID: 0}
+  clipOnUse: {fileID: 8300000, guid: 114ba615385714102afcb127d5988db2, type: 3}
   strengthOnUse: 0
   durationOnUse: 0
   intervalOnUse: 0.05
@@ -9220,17 +9220,17 @@ MonoBehaviour:
   durationOnNearTouch: 0
   intervalOnNearTouch: 0.05
   cancelOnNearUntouch: 1
-  clipOnTouch: {fileID: 0}
+  clipOnTouch: {fileID: 8300000, guid: 867b1b5a5a1284a8b88d7b228e1a19fd, type: 3}
   strengthOnTouch: 0
   durationOnTouch: 0
   intervalOnTouch: 0.05
   cancelOnUntouch: 1
-  clipOnGrab: {fileID: 0}
+  clipOnGrab: {fileID: 8300000, guid: 867b1b5a5a1284a8b88d7b228e1a19fd, type: 3}
   strengthOnGrab: 0
   durationOnGrab: 0
   intervalOnGrab: 0.05
   cancelOnUngrab: 1
-  clipOnUse: {fileID: 0}
+  clipOnUse: {fileID: 8300000, guid: 867b1b5a5a1284a8b88d7b228e1a19fd, type: 3}
   strengthOnUse: 0
   durationOnUse: 0
   intervalOnUse: 0.05
@@ -9341,17 +9341,17 @@ MonoBehaviour:
   durationOnNearTouch: 0
   intervalOnNearTouch: 0.05
   cancelOnNearUntouch: 1
-  clipOnTouch: {fileID: 0}
+  clipOnTouch: {fileID: 8300000, guid: a7140af69cbb1451ab5a5f79b8226214, type: 3}
   strengthOnTouch: 0
   durationOnTouch: 0
   intervalOnTouch: 0.05
   cancelOnUntouch: 1
-  clipOnGrab: {fileID: 0}
+  clipOnGrab: {fileID: 8300000, guid: a7140af69cbb1451ab5a5f79b8226214, type: 3}
   strengthOnGrab: 0
   durationOnGrab: 0
   intervalOnGrab: 0.05
   cancelOnUngrab: 1
-  clipOnUse: {fileID: 0}
+  clipOnUse: {fileID: 8300000, guid: a7140af69cbb1451ab5a5f79b8226214, type: 3}
   strengthOnUse: 0
   durationOnUse: 0
   intervalOnUse: 0.05
@@ -9461,17 +9461,17 @@ MonoBehaviour:
   durationOnNearTouch: 0
   intervalOnNearTouch: 0.05
   cancelOnNearUntouch: 1
-  clipOnTouch: {fileID: 0}
+  clipOnTouch: {fileID: 8300000, guid: 114ba615385714102afcb127d5988db2, type: 3}
   strengthOnTouch: 0
   durationOnTouch: 0
   intervalOnTouch: 0.05
   cancelOnUntouch: 1
-  clipOnGrab: {fileID: 0}
+  clipOnGrab: {fileID: 8300000, guid: 114ba615385714102afcb127d5988db2, type: 3}
   strengthOnGrab: 0
   durationOnGrab: 0
   intervalOnGrab: 0.05
   cancelOnUngrab: 1
-  clipOnUse: {fileID: 0}
+  clipOnUse: {fileID: 8300000, guid: 114ba615385714102afcb127d5988db2, type: 3}
   strengthOnUse: 0
   durationOnUse: 0
   intervalOnUse: 0.05
@@ -9577,7 +9577,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dc2315305343a584e8758755b54117c5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  clipOnNearTouch: {fileID: 0}
+  clipOnNearTouch: {fileID: 8300000, guid: db81fc75e5b7d4b49bebf6ed3c8ae05a, type: 3}
   strengthOnNearTouch: 0
   durationOnNearTouch: 0
   intervalOnNearTouch: 0.05
@@ -9587,12 +9587,12 @@ MonoBehaviour:
   durationOnTouch: 0
   intervalOnTouch: 0.05
   cancelOnUntouch: 1
-  clipOnGrab: {fileID: 0}
+  clipOnGrab: {fileID: 8300000, guid: db81fc75e5b7d4b49bebf6ed3c8ae05a, type: 3}
   strengthOnGrab: 0
   durationOnGrab: 0
   intervalOnGrab: 0.05
   cancelOnUngrab: 1
-  clipOnUse: {fileID: 0}
+  clipOnUse: {fileID: 8300000, guid: db81fc75e5b7d4b49bebf6ed3c8ae05a, type: 3}
   strengthOnUse: 0
   durationOnUse: 0
   intervalOnUse: 0.05
@@ -9824,17 +9824,17 @@ MonoBehaviour:
   durationOnNearTouch: 0
   intervalOnNearTouch: 0.05
   cancelOnNearUntouch: 1
-  clipOnTouch: {fileID: 0}
+  clipOnTouch: {fileID: 8300000, guid: 48c9f313f42704bf7835db6112a3dedd, type: 3}
   strengthOnTouch: 0
   durationOnTouch: 0
   intervalOnTouch: 0.05
   cancelOnUntouch: 1
-  clipOnGrab: {fileID: 0}
+  clipOnGrab: {fileID: 8300000, guid: 48c9f313f42704bf7835db6112a3dedd, type: 3}
   strengthOnGrab: 0
   durationOnGrab: 0
   intervalOnGrab: 0.05
   cancelOnUngrab: 1
-  clipOnUse: {fileID: 0}
+  clipOnUse: {fileID: 8300000, guid: 48c9f313f42704bf7835db6112a3dedd, type: 3}
   strengthOnUse: 0
   durationOnUse: 0
   intervalOnUse: 0.05
@@ -9961,17 +9961,17 @@ MonoBehaviour:
   durationOnNearTouch: 0
   intervalOnNearTouch: 0.05
   cancelOnNearUntouch: 1
-  clipOnTouch: {fileID: 0}
+  clipOnTouch: {fileID: 8300000, guid: 06d08044246b8423ca7805de6a52c4d2, type: 3}
   strengthOnTouch: 0
   durationOnTouch: 0
   intervalOnTouch: 0.05
   cancelOnUntouch: 1
-  clipOnGrab: {fileID: 0}
+  clipOnGrab: {fileID: 8300000, guid: 06d08044246b8423ca7805de6a52c4d2, type: 3}
   strengthOnGrab: 0
   durationOnGrab: 0
   intervalOnGrab: 0.05
   cancelOnUngrab: 1
-  clipOnUse: {fileID: 0}
+  clipOnUse: {fileID: 8300000, guid: 06d08044246b8423ca7805de6a52c4d2, type: 3}
   strengthOnUse: 0
   durationOnUse: 0
   intervalOnUse: 0.05
@@ -10082,17 +10082,17 @@ MonoBehaviour:
   durationOnNearTouch: 0
   intervalOnNearTouch: 0.05
   cancelOnNearUntouch: 1
-  clipOnTouch: {fileID: 0}
+  clipOnTouch: {fileID: 8300000, guid: f8d60c7b865ae440189b66ec7efaf065, type: 3}
   strengthOnTouch: 0
   durationOnTouch: 0
   intervalOnTouch: 0.05
   cancelOnUntouch: 1
-  clipOnGrab: {fileID: 0}
+  clipOnGrab: {fileID: 8300000, guid: f8d60c7b865ae440189b66ec7efaf065, type: 3}
   strengthOnGrab: 0
   durationOnGrab: 0
   intervalOnGrab: 0.05
   cancelOnUngrab: 1
-  clipOnUse: {fileID: 0}
+  clipOnUse: {fileID: 8300000, guid: f8d60c7b865ae440189b66ec7efaf065, type: 3}
   strengthOnUse: 0
   durationOnUse: 0
   intervalOnUse: 0.05
@@ -10203,17 +10203,17 @@ MonoBehaviour:
   durationOnNearTouch: 0
   intervalOnNearTouch: 0.05
   cancelOnNearUntouch: 1
-  clipOnTouch: {fileID: 0}
+  clipOnTouch: {fileID: 8300000, guid: 087913b52d1034e139a52e2917eb99dc, type: 3}
   strengthOnTouch: 0
   durationOnTouch: 0
   intervalOnTouch: 0.05
   cancelOnUntouch: 1
-  clipOnGrab: {fileID: 0}
+  clipOnGrab: {fileID: 8300000, guid: 087913b52d1034e139a52e2917eb99dc, type: 3}
   strengthOnGrab: 0
   durationOnGrab: 0
   intervalOnGrab: 0.05
   cancelOnUngrab: 1
-  clipOnUse: {fileID: 0}
+  clipOnUse: {fileID: 8300000, guid: 087913b52d1034e139a52e2917eb99dc, type: 3}
   strengthOnUse: 0
   durationOnUse: 0
   intervalOnUse: 0.05
@@ -10324,17 +10324,17 @@ MonoBehaviour:
   durationOnNearTouch: 0
   intervalOnNearTouch: 0.05
   cancelOnNearUntouch: 1
-  clipOnTouch: {fileID: 0}
+  clipOnTouch: {fileID: 8300000, guid: d9359c1842b94462cbc363fb1eed1d82, type: 3}
   strengthOnTouch: 0
   durationOnTouch: 0
   intervalOnTouch: 0.05
   cancelOnUntouch: 1
-  clipOnGrab: {fileID: 0}
+  clipOnGrab: {fileID: 8300000, guid: d9359c1842b94462cbc363fb1eed1d82, type: 3}
   strengthOnGrab: 0
   durationOnGrab: 0
   intervalOnGrab: 0.05
   cancelOnUngrab: 1
-  clipOnUse: {fileID: 0}
+  clipOnUse: {fileID: 8300000, guid: d9359c1842b94462cbc363fb1eed1d82, type: 3}
   strengthOnUse: 0
   durationOnUse: 0
   intervalOnUse: 0.05
@@ -10445,17 +10445,17 @@ MonoBehaviour:
   durationOnNearTouch: 0
   intervalOnNearTouch: 0.05
   cancelOnNearUntouch: 1
-  clipOnTouch: {fileID: 0}
+  clipOnTouch: {fileID: 8300000, guid: ef8d5852b07724d14933af9b4564f5eb, type: 3}
   strengthOnTouch: 0
   durationOnTouch: 0
   intervalOnTouch: 0.05
   cancelOnUntouch: 1
-  clipOnGrab: {fileID: 0}
+  clipOnGrab: {fileID: 8300000, guid: ef8d5852b07724d14933af9b4564f5eb, type: 3}
   strengthOnGrab: 0
   durationOnGrab: 0
   intervalOnGrab: 0.05
   cancelOnUngrab: 1
-  clipOnUse: {fileID: 0}
+  clipOnUse: {fileID: 8300000, guid: ef8d5852b07724d14933af9b4564f5eb, type: 3}
   strengthOnUse: 0
   durationOnUse: 0
   intervalOnUse: 0.05
